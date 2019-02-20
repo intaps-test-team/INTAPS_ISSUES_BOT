@@ -9,7 +9,7 @@ const WizardScene = require('telegraf/scenes/wizard')
 const DBhandler = require('./DBhandler')
 
 //telegram bot token
-const bot = new Telegraf('790840671:AAEITox68Wc_gb-mGZglNX9xmVFvxS-MaDU');
+const bot = new Telegraf('790840');
 //to check the log optional
 bot.use(Telegraf.log())
  // variable to store issue information
